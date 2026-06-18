@@ -1,0 +1,104 @@
+{
+  "learning": [
+    {
+      "id": 1,
+      "title": "Arxeologiya nədir?",
+      "summary": "Keçmiş cəmiyyətləri maddi izlər vasitəsilə oxuyan elm.",
+      "detail": "Arxeologiya yaşayış yerləri, qəbirlər, alətlər, keramika, memarlıq qalıqları və landşaft izləri ilə insan tarixini bərpa edir.",
+      "metric": "Maddi sübut"
+    },
+    {
+      "id": 2,
+      "title": "Qazıntı necə aparılır?",
+      "summary": "Sahə kvadratlara bölünür, hər lay ayrıca sənədləşdirilir.",
+      "detail": "Qazıntı ölçmə, foto, kontekst qeydiyyatı, nümunə götürmə və laborator analiz ardıcıllığı ilə aparılır.",
+      "metric": "Lay-lay analiz"
+    },
+    {
+      "id": 3,
+      "title": "Karbon tarixləndirmə",
+      "summary": "Orqanik qalıqlarda C-14 izotopunun azalmasına əsaslanır.",
+      "detail": "Bu metod sümük, ağac, kömür və toxum kimi materialların yaş intervalını hesablamağa kömək edir.",
+      "metric": "C-14"
+    },
+    {
+      "id": 4,
+      "title": "Azərbaycanın arxeoloji tarixi",
+      "summary": "Paleolit mağaralarından orta əsr şəhərlərinə qədər geniş irs.",
+      "detail": "Qobustan, Azıx, Kültəpə, Mingəçevir və İçərişəhər kimi məkanlar müxtəlif dövrlərin mədəni xəritəsini qurur.",
+      "metric": "Minilliklər"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Qobustan gecə ekspedisiyası",
+      "date": "2026-07-12",
+      "location": "Qobustan Milli Tarix-Bədii Qoruğu",
+      "description": "Bələdçi ilə qayaüstü təsvirlər marşrutu və mini seminar.",
+      "capacity": 28
+    },
+    {
+      "id": 2,
+      "title": "İçərişəhər qatları üzrə gəzinti",
+      "date": "2026-08-04",
+      "location": "İçərişəhər",
+      "description": "Şəhər arxeologiyası, keramika nümunələri və müdafiə memarlığı.",
+      "capacity": 18
+    },
+    {
+      "id": 3,
+      "title": "Tunc dövrü laboratoriyası",
+      "date": "2026-09-18",
+      "location": "Naxçıvan Dövlət Tarix Muzeyi",
+      "description": "Metallurgiya, keramika və eksponat oxuma məşğələsi.",
+      "capacity": 22
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "question": "Qobustan qayaüstü təsvirləri əsasən hansı dövrə aid edilir?",
+      "options": ["Daş dövrü", "Orta əsrlər", "Antik dövr"],
+      "answer": "Daş dövrü",
+      "badge": "Qobustan kəşfçisi"
+    },
+    {
+      "id": 2,
+      "question": "Kültəpə hansı regionla daha çox əlaqələndirilir?",
+      "options": ["Naxçıvan", "Gəncə", "Şabran"],
+      "answer": "Naxçıvan",
+      "badge": "Tədqiqatçı"
+    },
+    {
+      "id": 3,
+      "question": "Karbon tarixləndirmə hansı materiallarda daha uyğundur?",
+      "options": ["Orqanik qalıqlar", "Saf metal", "Şüşə"],
+      "answer": "Orqanik qalıqlar",
+      "badge": "Tapıntı ustası"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Yeni arxeoloji marşrut xəritəsi hazırlanır",
+      "source": "Dərnək xəbərləri",
+      "date": "2026-06-02",
+      "description": "Muzey və qazıntı məkanlarını birləşdirən təhsil marşrutları yenilənir."
+    },
+    {
+      "id": 2,
+      "title": "Keramika kolleksiyası üzrə açıq seminar",
+      "source": "Muzey proqramı",
+      "date": "2026-06-18",
+      "description": "Orta əsr qablarının forması, ornamentləri və istehsal üsulları izah olunacaq."
+    },
+    {
+      "id": 3,
+      "title": "Gənclər üçün sahə məktəbi elan edildi",
+      "source": "Təhsil bölməsi",
+      "date": "2026-07-01",
+      "description": "Qazıntı etikası, sənədləşmə və tapıntı qeydiyyatı üzrə praktik proqram."
+    }
+  ]
+}

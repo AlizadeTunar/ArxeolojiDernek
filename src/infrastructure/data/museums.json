@@ -1,0 +1,46 @@
+[
+  {
+    "id": 101,
+    "name": "İçərişəhər Arxeoloji Muzeyi",
+    "address": "Bakı, İçərişəhər, Qız qalası ətrafı",
+    "hours": "Çərşənbə axşamı - Bazar, 10:00 - 18:00",
+    "latitude": 40.366,
+    "longitude": 49.837,
+    "description": "İçərişəhərin antik və orta əsr arxeoloji qatlarını, şəhər mədəniyyətini və gündəlik həyat nümunələrini təqdim edən fokuslu ekspozisiya.",
+    "images": ["https://images.unsplash.com/photo-1565060169181-25f5f181f06f?auto=format&fit=crop&w=1200&q=80"],
+    "collectionFocus": ["Orta əsr keramika", "Şəhər məişəti", "Numizmatika"]
+  },
+  {
+    "id": 102,
+    "name": "Qala Arxeoloji-Etnoqrafik Kompleksi",
+    "address": "Bakı, Qala qəsəbəsi",
+    "hours": "Hər gün, 09:00 - 18:00",
+    "latitude": 40.442,
+    "longitude": 50.168,
+    "description": "Abşeronun yaşayış, müdafiə, sənətkarlıq və etnoqrafik ənənələrini açıq səma altında təqdim edən geniş kompleks.",
+    "images": ["https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"],
+    "collectionFocus": ["Açıq səma abidələri", "Daş memarlıq", "Etnoqrafiya"]
+  },
+  {
+    "id": 103,
+    "name": "Azərbaycan Milli Tarix Muzeyi",
+    "address": "Bakı, Hacı Zeynalabdin Tağıyev küçəsi 4",
+    "hours": "Bazar ertəsi istisna, 10:00 - 17:00",
+    "latitude": 40.371,
+    "longitude": 49.840,
+    "description": "Azərbaycanın qədimdən müasir dövrə qədər maddi mədəniyyət nümunələrini toplayan əsas muzey məkanı.",
+    "images": ["https://images.unsplash.com/photo-1581526527012-9ffb7b731bc8?auto=format&fit=crop&w=1200&q=80"],
+    "collectionFocus": ["Arxeoloji fond", "Sikkələr", "Qədim silahlar"]
+  },
+  {
+    "id": 104,
+    "name": "Naxçıvan Dövlət Tarix Muzeyi",
+    "address": "Naxçıvan şəhəri",
+    "hours": "Bazar ertəsi - Şənbə, 10:00 - 17:00",
+    "latitude": 39.208,
+    "longitude": 45.412,
+    "description": "Naxçıvanın qədim yaşayış yerləri, tunc dövrü mədəniyyəti və regional arxeoloji irsini təqdim edir.",
+    "images": ["https://images.unsplash.com/photo-1587061949409-02df41d5e562?auto=format&fit=crop&w=1200&q=80"],
+    "collectionFocus": ["Kültəpə materialları", "Tunc artefaktları", "Regional tarix"]
+  }
+]

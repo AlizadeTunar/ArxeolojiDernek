@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Qobustan Qayaüstü Qazıntıları",
+    "type": "excavation",
+    "region": "Qaradağ",
+    "latitude": 40.109,
+    "longitude": 49.378,
+    "era": "Daş dövrü",
+    "description": "Qobustan qədim qaya rəsmləri, yaşayış izləri və arxeoloji tapıntılar ilə Azərbaycanın ən güclü açıq səma irs məkanlarından biridir.",
+    "images": ["https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=80"],
+    "highlights": ["Qayaüstü təsvirlər", "Ov səhnələri", "Mikrolit alətlər"]
+  },
+  {
+    "id": 2,
+    "name": "Azıx Mağarası",
+    "type": "excavation",
+    "region": "Xocavənd",
+    "latitude": 39.619,
+    "longitude": 46.967,
+    "era": "Daş dövrü",
+    "description": "Qafqazda ən qədim insan məskənlərindən biri sayılan Azıx mağarası paleolit tədqiqatları üçün əsas mənbələrdəndir.",
+    "images": ["https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80"],
+    "highlights": ["Paleolit layları", "İnsan çənəsi qalığı", "Mağara stratigrafiyası"]
+  },
+  {
+    "id": 3,
+    "name": "Kültəpə Yaşayış Yeri",
+    "type": "excavation",
+    "region": "Naxçıvan",
+    "latitude": 39.327,
+    "longitude": 45.431,
+    "era": "Tunc dövrü",
+    "description": "Kültəpə qədim əkinçilik, keramika və erkən şəhər mədəniyyətinin izlərini daşıyan çoxlaylı abidədir.",
+    "images": ["https://images.unsplash.com/photo-1589310175050-e7ca560b989b?auto=format&fit=crop&w=1200&q=80"],
+    "highlights": ["Keramika emalatı", "Dairəvi tikililər", "Tunc dövrü təbəqələri"]
+  },
+  {
+    "id": 4,
+    "name": "Gəncə Qala Qalıqları",
+    "type": "historic",
+    "region": "Gəncə",
+    "latitude": 40.682,
+    "longitude": 46.360,
+    "era": "Orta əsrlər",
+    "description": "Orta əsr şəhərsalma, müdafiə divarları və sənətkarlıq məhəllələrinin izləri ilə seçilən tarixi kompleks.",
+    "images": ["https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&w=1200&q=80"],
+    "highlights": ["Qala divarları", "Sənətkarlıq izləri", "Şəhər layları"]
+  },
+  {
+    "id": 5,
+    "name": "Mingəçevir Arxeoloji Kompleksi",
+    "type": "excavation",
+    "region": "Mingəçevir",
+    "latitude": 40.770,
+    "longitude": 47.049,
+    "era": "Antik dövr",
+    "description": "Kür çayı vadisində yerləşən kompleks antik və erkən orta əsr yaşayış, qəbir və sənətkarlıq izlərini birləşdirir.",
+    "images": ["https://images.unsplash.com/photo-1601555818360-7aa51a3817d6?auto=format&fit=crop&w=1200&q=80"],
+    "highlights": ["Qəbir abidələri", "Şüşə və metal nümunələri", "Kür vadisi marşrutu"]
+  },
+  {
+    "id": 6,
+    "name": "Çıraqqala Ətrafı Qazıntılar",
+    "type": "historic",
+    "region": "Şabran",
+    "latitude": 41.084,
+    "longitude": 48.932,
+    "era": "Orta əsrlər",
+    "description": "Müdafiə sistemi və dağ keçidləri üzərində nəzarət nöqtələri ilə tanınan strateji arxeoloji zona.",
+    "images": ["https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80"],
+    "highlights": ["Müdafiə qüllələri", "Dağ marşrutu", "Orta əsr təbəqələri"]
+  }
+]

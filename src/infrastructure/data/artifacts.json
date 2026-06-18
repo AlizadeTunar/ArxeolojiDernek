@@ -1,0 +1,62 @@
+[
+  {
+    "id": 201,
+    "name": "Qayaüstü ov təsviri fraqmenti",
+    "category": "Alətlər",
+    "image": "https://images.unsplash.com/photo-1531884070720-875c7622d4c6?auto=format&fit=crop&w=1000&q=80",
+    "foundAt": "Qobustan",
+    "era": "Daş dövrü",
+    "material": "Daş səth",
+    "explanation": "Ov səhnələri erkən icmaların gündəlik həyatını, kollektiv hərəkətini və simvolik düşüncəsini göstərir."
+  },
+  {
+    "id": 202,
+    "name": "Tunc xəncər",
+    "category": "Silahlar",
+    "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=1000&q=80",
+    "foundAt": "Naxçıvan",
+    "era": "Tunc dövrü",
+    "material": "Tunc",
+    "explanation": "Tunc metallurgiyasının inkişafı döyüş, ov və status simvollarında yeni formalar yaratdı."
+  },
+  {
+    "id": 203,
+    "name": "Şirli keramika qab",
+    "category": "Keramika",
+    "image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=1000&q=80",
+    "foundAt": "Gəncə",
+    "era": "Orta əsrlər",
+    "material": "Keramika",
+    "explanation": "Şirli qablar şəhər sənətkarlığının texniki zövqünü və ticarət əlaqələrini nümayiş etdirir."
+  },
+  {
+    "id": 204,
+    "name": "Antik mis sikkə",
+    "category": "Sikkələr",
+    "image": "https://images.unsplash.com/photo-1621440318464-72633426377b?auto=format&fit=crop&w=1000&q=80",
+    "foundAt": "Mingəçevir",
+    "era": "Antik dövr",
+    "material": "Mis",
+    "explanation": "Sikkələr iqtisadi dövriyyə, hakimiyyət simvolikası və regional əlaqələri oxumaq üçün əsas mənbədir."
+  },
+  {
+    "id": 205,
+    "name": "Gümüş sırğa",
+    "category": "Bəzək əşyaları",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=1000&q=80",
+    "foundAt": "Şabran",
+    "era": "Orta əsrlər",
+    "material": "Gümüş",
+    "explanation": "Bəzək əşyaları həm estetik zövqü, həm də sosial status və identiklik formalarını əks etdirir."
+  },
+  {
+    "id": 206,
+    "name": "Obsidian kəsici",
+    "category": "Alətlər",
+    "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&w=1000&q=80",
+    "foundAt": "Azıx",
+    "era": "Daş dövrü",
+    "material": "Obsidian",
+    "explanation": "İti kənarlı obsidian alətlər ov, dəri emalı və gündəlik istehsal proseslərində istifadə olunurdu."
+  }
+]
